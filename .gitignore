@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+.directory
+.Trash-*
+*~
+.nfs*
+.fuse_hidden*
