@@ -4,4 +4,5 @@
 .Trash-*
 *~
 .nfs*
-.fuse_hidden*
+.fuse_hidden
+target/*
