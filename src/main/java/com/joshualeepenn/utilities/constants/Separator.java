@@ -1,9 +1,9 @@
-package com.joshualeepenn.utilities;
+package com.joshualeepenn.utilities.constants;
 
 /**
  * Static whitespace chars useful for lists, separators, etc.
  */
-public class Separators {
+public class Separator {
 
     // Prototypical
     public static final String COMMA = ",";
