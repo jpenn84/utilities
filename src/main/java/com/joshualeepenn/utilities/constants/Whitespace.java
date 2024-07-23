@@ -1,4 +1,4 @@
-package com.joshualeepenn.utilities;
+package com.joshualeepenn.utilities.constants;
 
 /**
  * Static whitespace chars useful for lists, separators, etc.
